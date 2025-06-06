@@ -1,0 +1,44 @@
+=== TRANSACTION RECORD ===
+Date & Time: 2025-06-06 20:35:13
+Cashier/User: Caryl11
+Items Purchased:
+  - sinigang | Quantity: 2 | Unit Price: P15.00 | Subtotal: P30.00
+  - rice | Quantity: 12 | Unit Price: P5.00 | Subtotal: P60.00
+  - adobo | Quantity: 2 | Unit Price: P12.00 | Subtotal: P24.00
+Total Amount: P114.00
+=== END OF TRANSACTION ===
+
+
+=== TRANSACTION RECORD ===
+Date & Time: 2025-06-06 20:36:11
+Cashier/User: Andrea22
+Items Purchased:
+  - notebook | Quantity: 2 | Unit Price: P55.00 | Subtotal: P110.00
+  - tape | Quantity: 8 | Unit Price: P76.00 | Subtotal: P608.00
+  - paper | Quantity: 1 | Unit Price: P25.00 | Subtotal: P25.00
+Total Amount: P743.00
+=== END OF TRANSACTION ===
+
+
+=== TRANSACTION RECORD ===
+Date & Time: 2025-06-06 20:38:37
+Cashier/User: Caryl11
+Items Purchased:
+  - sinigang | Quantity: 5 | Unit Price: P15.00 | Subtotal: P75.00
+  - caldereta | Quantity: 2 | Unit Price: P18.00 | Subtotal: P36.00
+  - rice | Quantity: 5 | Unit Price: P15.00 | Subtotal: P75.00
+Total Amount: P186.00
+=== END OF TRANSACTION ===
+
+
+=== TRANSACTION RECORD ===
+Date & Time: 2025-06-06 20:39:44
+Cashier/User: Andrea22
+Items Purchased:
+  - ballpen | Quantity: 2 | Unit Price: P15.00 | Subtotal: P30.00
+  - tape | Quantity: 1 | Unit Price: P98.00 | Subtotal: P98.00
+  - paper | Quantity: 1 | Unit Price: P25.00 | Subtotal: P25.00
+Total Amount: P153.00
+=== END OF TRANSACTION ===
+
+
